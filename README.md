@@ -1,6 +1,6 @@
 # Test Repo
 
-Welcome to my awesome repo of awesomeness.
+Welcome to my awesome repo of awesomeness. This repo demonstrates the amazing CLA process.
 
 ## Contributing
 
