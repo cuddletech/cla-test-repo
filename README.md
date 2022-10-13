@@ -11,3 +11,7 @@ I have read the CLA Document and I hereby sign the CLA
 ```
 
 This will serve as a legal acceptance of our CLA and authorize you to make contributions.  
+
+## My Awesome Contribution
+
+Sure hope I did that CLA stuff above!  Lets use a remote private repo for CLA signatures. :)
